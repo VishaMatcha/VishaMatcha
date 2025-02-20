@@ -80,7 +80,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vishalmatcha?theme=dark&font=Karma)
 
 ## 📈 LeetCode Activity Graph
-![LeetCode Stats](https://leetcard.jacoblin.cool/vishalmatcha?theme=dark&font=Karma)
+![LeetCode Activity Graph](https://leetcode-stats-six.vercel.app/api?username=vishalmatcha&theme=dark)
 
 ## 📬 Connect With Me
 
