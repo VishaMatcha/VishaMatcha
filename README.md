@@ -16,7 +16,7 @@
 - 📈 Built **scalable ML pipelines** involving **data preprocessing, feature engineering, hyperparameter tuning, and model monitoring**.
 - 🏆 Strong problem-solving skills honed through **Leetcode & Competitive Programming**.
 - 🎓 Currently pursuing **MS in Computer Science at the University of California, Riverside**.
-
+---
 ## 🛠️ Technical Skills
 
 ### **Programming Languages**
@@ -74,6 +74,8 @@
 [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)  
 [![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)  
 [![](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+
+---
 ## 🏆 Machine Learning Models
 
 ### **Supervised Learning**
