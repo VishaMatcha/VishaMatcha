@@ -1,4 +1,4 @@
- <h1 align = "center"><img src="https://github.com/VishaMatcha/VishaMatcha/blob/main/animat-campfire-color.gif" width="75" />👋 Hi there, I'm Sai Vishal Matcha!!</h1>
+<h1 align = "center"><img src="https://github.com/VishaMatcha/VishaMatcha/blob/main/animat-campfire-color.gif" width="75" />👋 Hi there, I'm Sai Vishal Matcha!!</h1>
  
 🔹 **AI/ML Engineer | Deep Learning Enthusiast | Cloud & Data Solutions**  
 🔹 Passionate about **Machine Learning, Generative AI, and Large Language Models (LLMs)**.  
@@ -126,14 +126,14 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VishaMatcha&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishaMatcha&layout=compact&theme=dark)  
+<h1 align = "center">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VishaMatcha&theme=dark&hide_border=true)</h1>
+<h1 align = "center">![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishaMatcha&layout=compact&theme=dark)</h1>
 
 ---
 
 ## 📊 LeetCode Stats
 
-![LeetCode Activity Graph](https://leetcard.jacoblin.cool/vishalmatcha?ext=heatmap)
+<h1 align = "center">![LeetCode Activity Graph](https://leetcard.jacoblin.cool/vishalmatcha?ext=heatmap)</h1>
 
 ## 📬 Connect With Me
 
