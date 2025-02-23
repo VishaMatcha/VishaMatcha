@@ -8,6 +8,16 @@
 
 ---
 
+## 🚀 About Me
+
+- 🤖 **Machine Learning Engineer** with **3+ years of experience** in **Deep Learning, Large Language Models (LLMs), and Generative AI**.
+- 🔬 Worked extensively on **LLM fine-tuning, model deployment, and optimization**.
+- ☁️ Skilled in **Cloud AI Services** (AWS, Azure, GCP) and **ML Model Deployment** (Docker, Kubernetes, FastAPI).
+- 📈 Built **scalable ML pipelines** involving **data preprocessing, feature engineering, hyperparameter tuning, and model monitoring**.
+- 🏆 Strong problem-solving skills honed through **Leetcode & Competitive Programming**.
+- 🎓 Currently pursuing **MS in Computer Science at the University of California, Riverside**.
+---
+
 🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
 
 * *Linear Regression*
@@ -46,16 +56,6 @@
 * *GPT - 3.5 (LLM)*
 * *GPT - 4 (LLM)*
 
----
-
-## 🚀 About Me
-
-- 🤖 **Machine Learning Engineer** with **3+ years of experience** in **Deep Learning, Large Language Models (LLMs), and Generative AI**.
-- 🔬 Worked extensively on **LLM fine-tuning, model deployment, and optimization**.
-- ☁️ Skilled in **Cloud AI Services** (AWS, Azure, GCP) and **ML Model Deployment** (Docker, Kubernetes, FastAPI).
-- 📈 Built **scalable ML pipelines** involving **data preprocessing, feature engineering, hyperparameter tuning, and model monitoring**.
-- 🏆 Strong problem-solving skills honed through **Leetcode & Competitive Programming**.
-- 🎓 Currently pursuing **MS in Computer Science at the University of California, Riverside**.
 ---
 ## 🛠️ Technical Skills
 
