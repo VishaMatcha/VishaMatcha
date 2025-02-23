@@ -8,6 +8,46 @@
 
 ---
 
+🔭 I've used different Machine Learning and Deep Learning models in real-time projects. Below are some used models:
+
+* *Linear Regression*
+* *Logistic Regression*
+* *Support Vector Machines (SVM)*
+* *Decision Trees (DT)*
+* *Random Forests (RF)*
+* *K-Nearest Neighbors (KNN)*
+* *Deep Neural Networks*
+* *Convolutional Neural Networks (CNN)*
+* *Recurrent Neural Networks (RNN)*
+* *Naive Bayes (NB)*
+* *Gradient Boosted Decision Trees (GBDT)*
+* *XGBoost*
+* *Long Short-Term Memory (LSTM)*
+
+🔭 Below are some state-of-the-art (SOTA) time series forecasting models used in various real-time projects: 
+
+* *Auto-Regressive (AR) Model*
+* *Auto-Regressive Moving Averages (ARMA) Model*
+* *Auto-Regressive Integrated Moving Averages (ARIMA) Model*
+* *Neural Hierarchical Interpolation of Time Series (N-HiTS) Model*
+* *Seasonal Auto-Regressive Integrated Moving Averages (SARIMA) Model*
+* *The Prophet Forecasting Model by Facebook*
+
+🔭 Furthermore, below are some of the tools used during my experience for __Generative AI__:
+
+* *Langchain*
+* *LangGraph*
+* *Retrieval Augmented Generation (RAG)*
+* *Llama Index*
+* *OpenAI API*
+* *Mixtral (LLM)*
+* *Llama 2 (LLM)*
+* *GPT - 3 (LLM)*
+* *GPT - 3.5 (LLM)*
+* *GPT - 4 (LLM)*
+
+---
+
 ## 🚀 About Me
 
 - 🤖 **Machine Learning Engineer** with **3+ years of experience** in **Deep Learning, Large Language Models (LLMs), and Generative AI**.
@@ -75,47 +115,6 @@
 [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
 [![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
-
----
-## 🏆 Machine Learning Models
-
-### **Supervised Learning**
-[![](https://img.shields.io/badge/Linear%20Regression-007396?style=for-the-badge&logo=linear&logoColor=white)](https://en.wikipedia.org/wiki/Linear_regression)
-[![](https://img.shields.io/badge/Logistic%20Regression-ff5733?style=for-the-badge&logo=logistic&logoColor=white)](https://en.wikipedia.org/wiki/Logistic_regression)
-[![](https://img.shields.io/badge/Decision%20Trees-228B22?style=for-the-badge&logo=decisiontree&logoColor=white)](https://en.wikipedia.org/wiki/Decision_tree_learning)
-[![](https://img.shields.io/badge/Random%20Forests-32CD32?style=for-the-badge&logo=randomforest&logoColor=white)](https://en.wikipedia.org/wiki/Random_forest)
-[![](https://img.shields.io/badge/Support%20Vector%20Machines-4682B4?style=for-the-badge&logo=svm&logoColor=white)](https://en.wikipedia.org/wiki/Support_vector_machine)
-[![](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/en/latest/)  
-
----
-
-### **Deep Learning**
-[![](https://img.shields.io/badge/Deep%20Neural%20Networks-ff69b4?style=for-the-badge&logo=dnn&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_neural_network)
-[![](https://img.shields.io/badge/Convolutional%20Neural%20Networks-ff4500?style=for-the-badge&logo=cnn&logoColor=white)](https://en.wikipedia.org/wiki/Convolutional_neural_network)
-[![](https://img.shields.io/badge/Recurrent%20Neural%20Networks-8A2BE2?style=for-the-badge&logo=rnn&logoColor=white)](https://en.wikipedia.org/wiki/Recurrent_neural_network)
-[![](https://img.shields.io/badge/Long%20Short%20Term%20Memory-ffcc00?style=for-the-badge&logo=lstm&logoColor=white)](https://en.wikipedia.org/wiki/Long_short-term_memory)
-
----
-
-### **Time-Series Forecasting**
-[![](https://img.shields.io/badge/AR%20(Auto-Regressive)-FFD700?style=for-the-badge&logo=ar&logoColor=white)](https://en.wikipedia.org/wiki/Autoregressive_model)
-[![](https://img.shields.io/badge/ARMA%20(Auto-Regressive%20Moving%20Average)-008080?style=for-the-badge&logo=arma&logoColor=white)](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average)
-[![](https://img.shields.io/badge/ARIMA%20(Auto-Regressive%20Integrated%20Moving%20Average)-4682B4?style=for-the-badge&logo=arima&logoColor=white)](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average)
-[![](https://img.shields.io/badge/SARIMA%20(Seasonal%20ARIMA)-32CD32?style=for-the-badge&logo=sarima&logoColor=white)](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average)
-[![](https://img.shields.io/badge/Facebook%20Prophet-4169E1?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.github.io/prophet/)
-[![](https://img.shields.io/badge/N-HiTS%20(Neural%20Hierarchical%20Interpolation%20of%20Time%20Series)-DC143C?style=for-the-badge&logo=nhits&logoColor=white)](https://arxiv.org/abs/2201.12886)
-
----
-
-### **Generative AI & LLMs**
-[![](https://img.shields.io/badge/GPT--3-00599C?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
-[![](https://img.shields.io/badge/GPT--3.5-1E90FF?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
-[![](https://img.shields.io/badge/GPT--4-000000?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
-[![](https://img.shields.io/badge/Llama%202-FF1493?style=for-the-badge&logo=meta&logoColor=white)](https://ai.meta.com/llama/)
-[![](https://img.shields.io/badge/Mixtral-800080?style=for-the-badge&logo=mistral&logoColor=white)](https://mistral.ai/)
-[![](https://img.shields.io/badge/OpenAI%20API-008080?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/api/)
-[![](https://img.shields.io/badge/Retrieval--Augmented%20Generation%20(RAG)-DAA520?style=for-the-badge&logo=rag&logoColor=white)](https://huggingface.co/blog/rag)
-[![](https://img.shields.io/badge/LangChain-32CD32?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
 
 ---
 
