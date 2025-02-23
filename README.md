@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sai Vishal Matcha! 
+ <h1 align = "center"><img src="https://github.com/VishaMatcha/VishaMatcha/blob/main/animat-campfire-color.gif" width="75" />👋 Hi there, I'm Sai Vishal Matcha!!</h1>
 
 🔹 **Software Engineer | Machine Learning Enthusiast | Cloud & Data Solutions**  
 🔹 Passionate about building scalable applications and solving complex data problems.  
