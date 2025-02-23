@@ -38,6 +38,22 @@
 
 ---
 
+## 🏆 Machine Learning Models
+
+### **Supervised Learning**
+- Linear Regression, Logistic Regression, Decision Trees (DT), Random Forests (RF), Support Vector Machines (SVM), XGBoost.
+
+### **Deep Learning**
+- Deep Neural Networks (DNN), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM).
+
+### **Time-Series Forecasting**
+- AR, ARMA, ARIMA, SARIMA, Facebook Prophet, N-HiTS.
+
+### **Generative AI & LLMs**
+- GPT-3, GPT-3.5, GPT-4, Llama 2, Mixtral, OpenAI API, Retrieval-Augmented Generation (RAG), LangChain.
+
+---
+
 ## 📂 Featured Projects
 
 ### 🔹 [Empowering Healthcare with Disease Prediction](https://ieeexplore.ieee.org/document/10353384)  
