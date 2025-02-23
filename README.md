@@ -1,8 +1,8 @@
  <h1 align = "center"><img src="https://github.com/VishaMatcha/VishaMatcha/blob/main/animat-campfire-color.gif" width="75" />👋 Hi there, I'm Sai Vishal Matcha!!</h1>
-
-🔹 **Software Engineer | Machine Learning Enthusiast | Cloud & Data Solutions**  
-🔹 Passionate about building scalable applications and solving complex data problems.  
-🔹 Experienced in Python, Django, Flask, Data Engineering, AI/ML, and Cloud Technologies.  
+ 
+🔹 **AI/ML Engineer | Deep Learning Enthusiast | Cloud & Data Solutions**  
+🔹 Passionate about **Machine Learning, Generative AI, and Large Language Models (LLMs)**.  
+🔹 Experienced in **ML Model Development, MLOps, Cloud AI Solutions, and Data Engineering**.  
 
 📍 Newark, CA | 📧 [Email](mailto:sai.vishal.17.24@gmail.com) | 🌐 [Portfolio](https://vishalmatcha.com)  
 
@@ -10,10 +10,11 @@
 
 ## 🚀 About Me
 
-- 💻 Former **Software Engineer** with expertise in **Python, Django, Flask, and FastAPI**.
-- 📊 Experience in **Big Data, Machine Learning, and Cloud Solutions** (AWS, Azure, Databricks, Apache Spark).
-- 🛠 Built **REST APIs, scalable web applications, and AI-driven solutions**.
-- 🔍 Strong problem-solving skills with **Leetcode & competitive programming** experience.
+- 🤖 **Machine Learning Engineer** with **3+ years of experience** in **Deep Learning, Large Language Models (LLMs), and Generative AI**.
+- 🔬 Worked extensively on **LLM fine-tuning, model deployment, and optimization**.
+- ☁️ Skilled in **Cloud AI Services** (AWS, Azure, GCP) and **ML Model Deployment** (Docker, Kubernetes, FastAPI).
+- 📈 Built **scalable ML pipelines** involving **data preprocessing, feature engineering, hyperparameter tuning, and model monitoring**.
+- 🏆 Strong problem-solving skills honed through **Leetcode & Competitive Programming**.
 - 🎓 Currently pursuing **MS in Computer Science at the University of California, Riverside**.
 
 ---
