@@ -170,7 +170,7 @@
 ## 📬 Connect With Me
 
 🔗 **Leetcode**: [leetcode.com/u/vishalmatcha](https://leetcode.com/u/vishalmatcha/)  
-🔗 **LinkedIn**: [linkedin.com/in/sai-vishal-matcha](https://www.linkedin.com/in/venkata-ranga-sai-vishal-matcha-bb6953215/)  
+🔗 **LinkedIn**: [linkedin.com/in/sai-vishal-matcha](https://www.linkedin.com/in/sai-vishal-matcha-bb6953215/)  
 🔗 **GitHub**: [github.com/VishaMatcha](https://github.com/VishaMatcha)  
 🔗 **Portfolio**: [vishalmatcha.com](https://vishalmatcha.com)  
 
