@@ -152,7 +152,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VishaMatcha&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=VishaMatcha&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishaMatcha&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
